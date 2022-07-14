@@ -1,2 +1,2 @@
 # operation_system_project
-Steam-like OOP Project
+Basic Operating System Project with Java
